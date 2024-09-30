@@ -1,0 +1,5 @@
+node_modules
+
+microservices/exercise-service/node_modules
+
+microservices/workout-service/node_modules
